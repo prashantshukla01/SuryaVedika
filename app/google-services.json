@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "856359079371",
+    "firebase_url": "https://surya-mukhi-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "surya-mukhi",
+    "storage_bucket": "surya-mukhi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856359079371:android:5ef5884da92b1c4e03ba4e",
+        "android_client_info": {
+          "package_name": "com.example.soni_innogeek"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd22kbY0W3QuQTmGBSuUFNolv7QLM8IxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

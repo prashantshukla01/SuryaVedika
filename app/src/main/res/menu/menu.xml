@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/edit_profile"
+        android:icon="@drawable/baseline_lock_24"
+        android:title="EDIT PROFILE"/>
+    <item android:id="@+id/contact_us"
+        android:icon="@drawable/baseline_lock_24"
+        android:title="CONTACT US"/>
+    <item android:id="@+id/log_out"
+        android:icon="@drawable/baseline_lock_24"
+        android:title="LOG OUT"/>
+
+
+</menu>
