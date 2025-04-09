@@ -64,7 +64,7 @@
             android:id="@+id/profile_email"
             android:layout_width="match_parent"
             android:layout_height="40dp"
-            android:text="soniavi3007@gmail.com"
+            android:text="unknown123@gmail.com"
             android:textSize="20sp"
             android:textColor="#ffff"
             android:layout_marginTop="8dp"
